@@ -1,11 +1,16 @@
+<h1 align="center">Hi, I'm Havish Vivek 👋</h1>
 
+<p align="center">
+  <b>Electrical, Electronics, and Computer Engineer</b>  
+  <br>
+  🚀 Passionate about building projects with Arduino, Raspberry Pi, ESP32, AI, and ML.
+  <br>
+  🌐 Check out my <a href="https://havishvivek.github.io/" target="_blank">Website</a>
+</p>
 
-<b>Hi, I am Havish Vivek. I am an Electrical, Electronics, and Computer Engineer. I enjoy making projects with Arduino, Raspberry Pi, ESP32, AI, and ML.</b>
+---
 
-Here is my own  [webpage](https://havishvivek.github.io/)
-
-
-# 💻 Tech Stack:
+## 🚀 Tech Stack:
 
 <p align="center">
   <img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" />
@@ -21,8 +26,23 @@ Here is my own  [webpage](https://havishvivek.github.io/)
   <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
+---
+
+## 🏆 GitHub Activity:
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  </picture>
+</p>
+
+---
+
+### 📬 Connect with Me:
+
+<p align="center">
+  <a href="https://havishvivek.github.io/" target="_blank"><img src="https://img.shields.io/badge/Website-181717?style=for-the-badge&logo=Google-Chrome&logoColor=white" /></a>
+  <a href="https://github.com/havishvivek" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
