@@ -1,7 +1,7 @@
-<img src="./Project lab.png" alt="GitHub Banner" width="1362" height="298"/>
+<img src="./Project lab.png" alt="GitHub Banner" width="1362" height="298" />
 
-# Hello World!, I'm Tobi, a German Web Developer 👋🏼:
-🛜 currently working on my own [webpage](https://www.tobiasmeyhoefer.de)<br>👨🏼‍🎓 studying media based computer science at Berliner Hochschule für Technik<br>👨🏼‍💻 working as a web developer since 2022 <br>🎬 just started out with my youtube channel <i>tobi tackles tech</i>
+#Hi, I am Havish Vivek. I am an Electrical, Electronics, and Computer Engineer. I enjoy making projects with Arduino, Raspberry Pi, ESP32, AI, and ML:
+🛜 currently working on my own [webpage](https://havishvivek.github.io/)
 
 
 # 💻 Tech Stack:
