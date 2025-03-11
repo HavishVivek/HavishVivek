@@ -1,6 +1,6 @@
 
 
-**Hi, I am Havish Vivek. I am an Electrical, Electronics, and Computer Engineer. I enjoy making projects with Arduino, Raspberry Pi, ESP32, AI, and ML.**
+<b>Hi, I am Havish Vivek. I am an Electrical, Electronics, and Computer Engineer. I enjoy making projects with Arduino, Raspberry Pi, ESP32, AI, and ML.</b>
 
 Here is my own  [webpage](https://havishvivek.github.io/)
 
